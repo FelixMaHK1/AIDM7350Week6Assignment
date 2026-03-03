@@ -197,6 +197,31 @@
      height: 70px;
  }
 
+ .cv-btn {
+     position: relative;
+     display: inline-block;
+     margin-top: 20px;
+     padding: 12px 35px;
+
+     color: #ffffff;
+     font-weight: bold;
+     text-transform: uppercase;
+     text-decoration: none;
+     letter-spacing: 1px;
+     font-size: 14px;
+
+
+     background: #19183B;
+
+     border-radius: 50px;
+
+     box-shadow: 0 5px 15px rgba(25, 24, 59, 0.2);
+
+     overflow: hidden;
+     transition: all 0.4s ease;
+     z-index: 1;
+ }
+
  .logo {
      font-size: 24px;
      font-weight: bold;
